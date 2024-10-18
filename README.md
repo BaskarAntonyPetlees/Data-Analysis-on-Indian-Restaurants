@@ -1,2 +1,2 @@
 # Data-Analysis-on-Indian-Restaurants
-This project is about a data visualization of Indian Restaurants where the data has been cleaned, arranged and presented with charts.
+This project involves the data visualization of Indian restaurants using Python, where the data has been cleaned, organized, and presented through various charts.
